@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Wyvern Chat Updates</title>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.4</title>
+            <pubDate>Thu, 19 Feb 2026 07:48:16 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v0.0.4/WyvernChat-0.0.4-macOS.dmg"
+                length="13815028"
+                type="application/octet-stream"
+                sparkle:edSignature="iDXUvpSq3OCgfA4ti6BDs88xwY0sUgRcwCoZRupVCXdoaW2TMrQ0+TSLqr3/EeJhy0+UzqO4iykPr/CMgvyNDw==" />
+        </item>
+    </channel>
+</rss>
