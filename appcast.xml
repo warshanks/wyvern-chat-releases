@@ -11,9 +11,9 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v0.3.0/WyvernChat-0.3.0-macOS.dmg"
-                length="13843886"
+                length="13845862"
                 type="application/octet-stream"
-                sparkle:edSignature="1FM0cCHNAicX3TaA7Mtr/ACGtsjJRJiHHaM71PSfjpDwgearMQ2GMF1y+5ue41dOcv6QRqYyObgmWfMnrWclAg==" />
+                sparkle:edSignature="IKCNbNrSnIBO6i8gghwc13e/sJKVsQj5Aq4hj1BuB90/TJfo/VRF08WKErCS31XMJcoa8AJvWvq233h1L9tNAA==" />
         </item>
     </channel>
 </rss>
