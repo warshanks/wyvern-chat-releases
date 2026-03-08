@@ -4,16 +4,16 @@
         <title>Wyvern Chat Updates</title>
         <language>en</language>
         <item>
-            <title>Version 0.13.4</title>
-            <pubDate>Sun, 08 Mar 2026 03:58:35 -0500</pubDate>
-            <sparkle:version>1304</sparkle:version>
-            <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
+            <title>Version 0.13.5</title>
+            <pubDate>Sun, 08 Mar 2026 04:20:01 -0500</pubDate>
+            <sparkle:version>1305</sparkle:version>
+            <sparkle:shortVersionString>0.13.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v0.13.4/WyvernChat-0.13.4-macOS.dmg"
-                length="28051339"
+                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v0.13.5/WyvernChat-0.13.5-macOS.dmg"
+                length="28102894"
                 type="application/octet-stream"
-                sparkle:edSignature="mPNFq5b1hT3PBHAj9KKfReLYrzsYxY0FRck6HBzNq1/QZC7tCyATT9ccgIZvMdXaxIoUJ286sc7xklqivpNCCw==" />
+                sparkle:edSignature="kL7/AcQakb+i2+iyW0sb3f5+ZvzCyKmzduMgV0CQFv02LwyACTxtJLI0XHgRtouHJdgvTNkujnNy3etRfOZVDA==" />
         </item>
     </channel>
 </rss>
