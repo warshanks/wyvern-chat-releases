@@ -8,7 +8,7 @@
             <pubDate>Sat, 12 Sep 2026 10:18:16 -0500</pubDate>
             <sparkle:version>65001</sparkle:version>
             <sparkle:shortVersionString>65.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v65.1/WyvernChat-65.1-macOS.dmg"
                 length="61215949"
