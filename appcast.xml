@@ -4,16 +4,16 @@
         <title>Wyvern Chat Updates</title>
         <language>en</language>
         <item>
-            <title>Version 70.1</title>
-            <pubDate>Mon, 28 Sep 2026 19:51:32 -0500</pubDate>
-            <sparkle:version>70001</sparkle:version>
-            <sparkle:shortVersionString>70.1</sparkle:shortVersionString>
+            <title>Version 71.0</title>
+            <pubDate>Mon, 28 Sep 2026 23:18:45 -0500</pubDate>
+            <sparkle:version>71000</sparkle:version>
+            <sparkle:shortVersionString>71.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v70.1/WyvernChat-70.1-macOS.dmg"
-                length="63036024"
+                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v71.0/WyvernChat-71.0-macOS.dmg"
+                length="63028133"
                 type="application/octet-stream"
-                sparkle:edSignature="0G6ku+t/llBHWVYWkm+zE+xnnposDDJtsmLdQyuWRwBd94l/XUyAITSN1N2KNKPVUuEjpLhS0B6U+9kfiKXYCg==" />
+                sparkle:edSignature="eoD/+qoHWLF0M2VGkCeP06Xm0EfwRoR+xp/71DpCw+igwVQhQ77jtbJmw83ihct+lZFruv/ncykvSqEmb5DvBw==" />
         </item>
     </channel>
 </rss>
