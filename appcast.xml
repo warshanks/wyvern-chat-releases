@@ -4,16 +4,16 @@
         <title>Wyvern Chat Updates</title>
         <language>en</language>
         <item>
-            <title>Version 84.1</title>
-            <pubDate>Sun, 22 Nov 2026 00:30:58 -0600</pubDate>
-            <sparkle:version>84001</sparkle:version>
-            <sparkle:shortVersionString>84.1</sparkle:shortVersionString>
+            <title>Version 85.0</title>
+            <pubDate>Sun, 22 Nov 2026 13:36:27 -0600</pubDate>
+            <sparkle:version>85000</sparkle:version>
+            <sparkle:shortVersionString>85.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v84.1/WyvernChat-84.1-macOS.dmg"
-                length="68822001"
+                url="https://github.com/warshanks/wyvern-chat-releases/releases/download/v85.0/WyvernChat-85.0-macOS.dmg"
+                length="68929878"
                 type="application/octet-stream"
-                sparkle:edSignature="Ik+CqZ4Z5MXy0S4Bd8z9vGCGnfYWG/ZtmRJAPRYgVAWcLjn1CWz5J2gWo/BnmmoM1HCEEqmW6dsNLoV/d3IHDA==" />
+                sparkle:edSignature="UrZVPBQE5zS0wEY/jydIiHMahdkIVjS+xButH5bkNilxJQNz7rZnsZRi8Sfvm+E/8ihLegy20aCcT8EB9o3NBw==" />
         </item>
     </channel>
 </rss>
